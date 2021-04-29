@@ -1,5 +1,5 @@
 # AR-Corona-Tracker
-Augmented reality Corona Virus Stats app <br/>
+My Version of Corona Virus Tracker with some Augmented Reality tricks <br/>
 Uses Unity's AR Foundation with Google's AR Core <br/>
 <br/>
 API Used : https://api.covid19india.org/data.json <br/>
