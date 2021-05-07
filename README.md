@@ -6,9 +6,10 @@ API Used : https://api.covid19india.org/data.json <br/>
 App Link : https://drive.google.com/file/d/17KEQO3oWvTof4Bd20H3CrvViUNUt0K_H/view?usp=sharing
 <br/>
 Here are Some Screenshots :) <br/>
-![ARCORONASTATS (4)](https://user-images.githubusercontent.com/60938632/116606993-184ad500-a94f-11eb-9d5a-ff1c2e7b00a2.jpeg)
+![Artboard – 9](https://user-images.githubusercontent.com/60938632/117507592-e36cfc80-afa4-11eb-83bd-3941c3ca798e.png)<br/>
 
-![ARCORONASTATS (2)](https://user-images.githubusercontent.com/60938632/116606986-1719a800-a94f-11eb-8d6b-925eab2a2c89.jpeg)<br/>
+![ARCORONASTATS (4)](https://user-images.githubusercontent.com/60938632/116606993-184ad500-a94f-11eb-9d5a-ff1c2e7b00a2.jpeg)<br/>
+
 
 ![ARCORONASTATS (11)](https://user-images.githubusercontent.com/60938632/116606980-154fe480-a94f-11eb-9971-6281f726a7a0.jpeg) <br/>
 ![ARCORONASTATS (1)](https://user-images.githubusercontent.com/60938632/116606985-1719a800-a94f-11eb-8fd9-b110051cbb98.jpeg)<br/>
